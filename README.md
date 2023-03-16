@@ -1,6 +1,6 @@
 # Hi there, I'm Rafael 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-rrafaelc.vercel.app/api?username=rrafaelc&show_icons=true&theme=radical)                         
 
 ## 📋 Languages
 
@@ -17,7 +17,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Hi there 👋
