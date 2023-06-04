@@ -5,7 +5,7 @@
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 <!-- https://badges.pages.dev/ -->
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-E0234E?style=for-the-badge&logo=typeorm)
+![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/Next-%2320232a?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
