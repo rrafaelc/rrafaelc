@@ -27,7 +27,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-rrafaelc.vercel.app/api?username=rrafaelc&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=radical)
 
 ## 📊 Principais Linguagens
 
