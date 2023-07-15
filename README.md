@@ -31,7 +31,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 ## 📊 Principais Linguagens
 
-[![Top Langs](https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato
 
