@@ -31,6 +31,24 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 Estatísticas do Wakatime
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc)](https://wakatime.com/@rrafaelc)
+
+<!-- 
+#### Wakatime Card Exclusive Options
+
+*   `hide` - Hides the languages specified from the card *(Comma-separated values)*. Default: `[] (blank array)`.
+*   `hide_title` - *(boolean)*. Default `false`.
+*   `line_height` - Sets the line height between text *(number)*. Default `25`.
+*   `hide_progress` - Hides the progress bar and percentage *(boolean)*. Default `false`.
+*   `custom_title` - Sets a custom title for the card *(string)*. Default `Wakatime Stats`.
+*   `layout` - Switches between two available layouts `default` & `compact`.  Default `default`.
+*   `langs_count` - Limits the number of languages on the card, defaults to all reported languages *(number)*.
+*   `api_domain` - Sets a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/mujx/hakatime) or [Wakapi](https://github.com/muety/wakapi) *(string)*. Default `Waka API`.
+
+-->
+
 ## 📫 Contato
 
 Você pode me encontrar nas seguintes plataformas:
