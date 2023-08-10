@@ -53,6 +53,10 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc)](https://wakatime.com/@rrafaelc)
 
+<a href="https://wakatime.com/@rrafaelc" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's wakatime stats" />
+</a> 
+
 ##
 
 <p>
