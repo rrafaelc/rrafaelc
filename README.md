@@ -41,27 +41,33 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 ## 📊 Estatísticas do GitHub
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rrafaelc&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rrafaelc&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+-->
+<div>
+  <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=true" alt="rrafaelc's Streaks">  
+</div>
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight" alt="rrafaelc's Github Stats" />
+</div>
 
 ## 📊 Principais Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
+</div>
 
 ## 📊 Estatísticas do Wakatime
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc)](https://wakatime.com/@rrafaelc)
-
-<a href="https://wakatime.com/@rrafaelc" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's wakatime stats" />
+<a href="https://wakatime.com/@rrafaelc">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's Wakatime Stats" />
 </a> 
 
 ##
 
-<p>
+<div>
 <img src="https://github-profile-trophy.vercel.app/?username=rrafaelc&theme=dracula&row=2&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true)"/>
-</p>
+</div>
 
 <!--
 #### Wakatime Card Exclusive Options
