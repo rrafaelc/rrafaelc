@@ -44,7 +44,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rrafaelc&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
 -->
 <div>
-  <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=true" alt="rrafaelc's Streaks">  
+  <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false" alt="rrafaelc's Streaks">  
 </div>
 <br>
 <div>
