@@ -63,13 +63,14 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's Wakatime Stats" />
 </a> 
 
+<!--
 ##
 
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=rrafaelc&theme=dracula&row=2&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true)"/>
 </div>
 
-<!--
+
 #### Wakatime Card Exclusive Options
 
 *   `hide` - Hides the languages specified from the card *(Comma-separated values)*. Default: `[] (blank array)`.
