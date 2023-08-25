@@ -67,6 +67,9 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's Wakatime Stats" />
   </div>  
 </a> 
+
+<img src="https://raw.githubusercontent.com/rrafaelc/rrafaelc/output/snake.svg" alt="Snake animation" />
+
 <!--
 ##
 
