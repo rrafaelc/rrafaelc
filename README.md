@@ -68,7 +68,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
   </div>  
 </a> 
 
-<img src="https://raw.githubusercontent.com/rrafaelc/rrafaelc/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/rrafaelc/rrafaelc/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 ##
