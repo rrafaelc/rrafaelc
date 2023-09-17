@@ -91,3 +91,7 @@ You can find me on the following platforms:
 Feel free to get in touch with me! I'm always looking for new challenges and learning opportunities. 😄
 
 Thank you for visiting my profile! ⚡
+
+<a href="https://github.com/rrafaelc/rrafaelc/blob/main/README_Pt_Br.md">
+  <p>Portuguese version</p>
+</a>
