@@ -43,18 +43,23 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
 ## 📊 GitHub Statistics
 
 <div>
-<!--   <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false" alt="rrafaelc's Streaks"> -->
-  <img  src="http://github-readme-streak-stats-tau-six.vercel.app?user=rrafaelc&theme=dracula&hide_border=false" alt="rrafaelc's Streaks">  
+  <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false" alt="rrafaelc's Streaks">
 </div>
 <br>
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight" alt="rrafaelc's Github Stats" />
+</div> -->
+<div>
+  <img src="https://github-readme-stats-rrafaelc.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight" alt="rrafaelc's Github Stats" />
 </div>
 
 ## 📊 Top Languages
 
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
+</div> -->
+<div>
+  <img src="https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
 </div>
 
 ## 📊 Wakatime Statistics
@@ -66,7 +71,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
   <div>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's Wakatime Stats" />
   </div>  
-</a> 
+</a>
 
 <picture>
   <source
