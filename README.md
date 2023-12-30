@@ -69,7 +69,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
     <img src="https://wakatime.com/badge/user/a82412c8-8022-4b97-a121-14b2111152e8.svg" alt="Wakatime Badge" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc" alt="rrafaelc's Wakatime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc&layout=compact&langs_count=6" alt="rrafaelc's Wakatime Stats" />
   </div>  
 </a>
 
