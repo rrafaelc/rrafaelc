@@ -59,7 +59,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
 </div> -->
 <div>
-  <img src="https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
+  <img src="https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact&hide=html,css,c,c%2B%2B,Objective-c" alt="rrafaelc's Top Langs" />
 </div>
 
 ## 📊 Wakatime Statistics
