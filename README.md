@@ -43,7 +43,8 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
 ## 📊 GitHub Statistics
 
 <div>
-  <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks">
+<!--   <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks"> -->
+  <img  src="https://github-readme-streak-stats-rrafaelc.vercel.app?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks">
 </div>
 <br>
 <!-- <div>
