@@ -36,7 +36,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
 
 ## 📚 Experience and Knowledge
 
-- I have experience working with SOLID principles, Clean Code, and Ports and Adapters, following best development practices.
+- I have experience working with SOLID principles, Clean Code, following best development practices.
 - I have completed the CS50 course and earned the certificate, in addition to completing various other courses and projects.
 - Currently, I am working on several projects, with two of them being of great importance and learning for me. In these projects, I am gaining teamwork skills and using Git for version control.
 
