@@ -36,7 +36,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma na Fatec, com 2 ano
 
 ## 📚 Experiência e Conhecimentos
 
-- Tenho experiência em trabalhar com princípios SOLID, Clean Code e Arquitetura Hexagonal, seguindo boas práticas de desenvolvimento.
+- Tenho experiência em trabalhar com princípios SOLID, Clean Code, seguindo boas práticas de desenvolvimento.
 - Já participei do CS50 e possuo o certificado, além de ter concluído diversos outros cursos e projetos.
 - Atualmente, estou trabalhando em vários projetos, com destaque para dois que estão sendo de grande importância e aprendizado para mim. Neles, estou adquirindo habilidades em trabalho em equipe, utilizando Git para controle de versão.
 
