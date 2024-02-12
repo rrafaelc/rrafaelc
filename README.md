@@ -63,7 +63,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
   <img src="https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact&disable_animations=true&hide=html,css,c,c%2B%2B,Objective-c" alt="rrafaelc's Top Langs" />
 </div>
 
-## 📊 Wakatime Statistics
+<!-- ## 📊 Wakatime Statistics
 
 <a href="https://wakatime.com/@rrafaelc">
   <div>
@@ -73,6 +73,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rrafaelc&layout=compact&langs_count=6&disable_animations=true" alt="rrafaelc's Wakatime Stats" />
   </div>  
 </a>
+
 
 <picture>
   <source
@@ -88,6 +89,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
     src="https://raw.githubusercontent.com/rrafaelc/rrafaelc/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
 
 ## 📫 Contact
 
@@ -99,7 +101,3 @@ You can find me on the following platforms:
 Feel free to get in touch with me! I'm always looking for new challenges and learning opportunities. 😄
 
 Thank you for visiting my profile! ⚡
-
-<a href="https://github.com/rrafaelc/rrafaelc/blob/main/README_Pt_Br.md">
-  <p>Portuguese version</p>
-</a>
