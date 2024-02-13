@@ -54,14 +54,15 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
   <img src="https://github-readme-stats-rrafaelc.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight&disable_animations=true" alt="rrafaelc's Github Stats" />
 </div>
 
-## 📊 Top Languages
+<!-- ## 📊 Top Languages
 
-<!-- <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelc&layout=compact" alt="rrafaelc's Top Langs" />
-</div> -->
+</div>
 <div>
   <img src="https://github-readme-stats-rrafaelc.vercel.app/api/top-langs/?username=rrafaelc&layout=compact&disable_animations=true&hide=html,css,c,c%2B%2B,Objective-c" alt="rrafaelc's Top Langs" />
 </div>
+-->
 
 <!-- ## 📊 Wakatime Statistics
 
