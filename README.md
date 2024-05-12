@@ -1,14 +1,17 @@
 # Hello, I'm Rafael Costa! 👋
 
-I am a Multiplatform Software Development student at Fatec, with 2 years of experience in software development. My main focus is on backend, but I also have knowledge in frontend and mobile development. Below are some of the technologies and tools I work with:
+I am a Multiplatform Software Development student at Fatec, working at CI&T, with 4 years of experience in software development. My main focus is on backend, but I also have knowledge in frontend and mobile development. Below are some of the technologies and tools I work with:
 
 ## 🚀 Frameworks, Platforms, and Libraries
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm)
 ![NextJS](https://img.shields.io/badge/Next-%2320232a?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -23,6 +26,7 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,13 +36,14 @@ I am a Multiplatform Software Development student at Fatec, with 2 years of expe
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📚 Experience and Knowledge
 
 - I have experience working with SOLID principles, Clean Code, following best development practices.
 - I have completed the CS50 course and earned the certificate, in addition to completing various other courses and projects.
-- Currently, I am working on several projects, with two of them being of great importance and learning for me. In these projects, I am gaining teamwork skills and using Git for version control.
+- Currently, I am working at CI&T.
 
 ## 📊 GitHub Statistics
 
