@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Costa! 👋
 
-I am a Multiplatform Software Development student at Fatec, working at CI&T, with 4 years of experience in software development. My main focus is on backend, but I also have knowledge in frontend and mobile development. Below are some of the technologies and tools I work with:
+I am a Multiplatform Software Development student at Fatec, working at CI&T, with 2 years professionally of experience in software development. My main focus is on backend, but I also have knowledge in frontend and mobile development. Below are some of the technologies and tools I work with:
 
 ## 🚀 Frameworks, Platforms, and Libraries
 <!-- https://github.com/Ileriayo/markdown-badges -->
