@@ -39,12 +39,6 @@ I am a Multiplatform Software Development student at Fatec, working at CI&T, wit
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📚 Experience and Knowledge
-
-- I have experience working with SOLID principles, Clean Code, following best development practices.
-- I have completed the CS50 course and earned the certificate, in addition to completing various other courses and projects.
-- Currently, I am working at CI&T.
-
 ## 📊 GitHub Statistics
 
 <div>
