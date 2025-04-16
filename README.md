@@ -49,9 +49,9 @@ I am a Multiplatform Software Development student at Fatec, working at CI&T, wit
 <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight" alt="rrafaelc's Github Stats" />
 </div> -->
-<div>
+<!-- <div>
   <img src="https://github-readme-stats-rrafaelc.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight&disable_animations=true" alt="rrafaelc's Github Stats" />
-</div>
+</div> -->
 
 <!-- ## 📊 Top Languages
 
