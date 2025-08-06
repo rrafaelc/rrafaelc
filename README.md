@@ -96,7 +96,7 @@ I am a Multiplatform Software Development student at Fatec, working at CI&T, wit
 You can find me on the following platforms:
 
 - LinkedIn: [Rafael Costa](https://www.linkedin.com/in/rrafaelc)
-- Email: rafael.costa.fw@gmail.com
+- Email: contato@rafaelcostadev.com
 
 Feel free to get in touch with me! I'm always looking for new challenges and learning opportunities. 😄
 
