@@ -64,6 +64,11 @@ I build scalable systems and ship real products. My primary focus is backend, bu
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-readme-stats-beige-psi-31.vercel.app/api?username=rrafaelc&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+
 ## 📫 Contact
 
 [![Website](https://img.shields.io/badge/rafaelcostadev.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafaelcostadev.com)
