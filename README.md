@@ -1,8 +1,14 @@
-# Hi, I'm Rafael Costa! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Costa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%" />
 
-I'm a **Mid-Level Full Stack Developer** with around 3 years of professional experience building scalable systems and shipping real products. My primary focus is backend, but I work comfortably across the full stack, from APIs to interfaces to cloud infrastructure.
+<div align="center">
 
-I use AI tools (Claude, Cursor) every day to move faster and think through problems more clearly, always grounded in solid fundamentals.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=540&lines=Mid-Level+Full+Stack+Developer;%7E3+years+of+professional+experience;Backend-focused%2C+full-stack+capable;AI-powered+daily+workflow)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+I build scalable systems and ship real products. My primary focus is backend, but I work across the full stack: APIs, interfaces, and cloud infrastructure. I use AI tools daily to move faster, always grounded in solid fundamentals.
 
 ---
 
@@ -47,12 +53,29 @@ I use AI tools (Claude, Cursor) every day to move faster and think through probl
 ![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+## 🤖 AI Tools
+
+![Claude](https://img.shields.io/badge/Claude-D4C5A9?style=for-the-badge&logo=anthropic&logoColor=000000)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ## 📊 GitHub Statistics
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
 
+</div>
+
 ## 📫 Contact
 
-- Website: [rafaelcostadev.com](https://www.rafaelcostadev.com)
-- LinkedIn: [Rafael Costa](https://www.linkedin.com/in/rrafaelc)
-- Email: contact@rafaelcostadev.com
+<div align="center">
+
+[![Website](https://img.shields.io/badge/rafaelcostadev.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafaelcostadev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrafaelc)
+[![Email](https://img.shields.io/badge/contact%40rafaelcostadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rafaelcostadev.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
