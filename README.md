@@ -62,20 +62,12 @@ I build scalable systems and ship real products. My primary focus is backend, bu
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
 
-</div>
-
 ## 📫 Contact
-
-<div align="center">
 
 [![Website](https://img.shields.io/badge/rafaelcostadev.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafaelcostadev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrafaelc)
 [![Email](https://img.shields.io/badge/contact%40rafaelcostadev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rafaelcostadev.com)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
