@@ -41,11 +41,12 @@ I am a Multiplatform Software Development student at Fatec, working at CI&T, wit
 
 ## 📊 GitHub Statistics
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
 <div>
-<!--   <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks"> -->
+<!--   <img  src="http://github-readme-streak-stats.herokuapp.com?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks"> 
   <img  src="https://github-readme-streak-stats-rrafaelc.vercel.app?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true" alt="rrafaelc's Streaks">
 </div>
-<br>
+<br>-->
 <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rrafaelc&show_icons=true&theme=tokyonight" alt="rrafaelc's Github Stats" />
 </div> -->
@@ -97,7 +98,3 @@ You can find me on the following platforms:
 
 - LinkedIn: [Rafael Costa](https://www.linkedin.com/in/rrafaelc)
 - Email: contact@rafaelcostadev.com
-
-Feel free to get in touch with me! I'm always looking for new challenges and learning opportunities. 😄
-
-Thank you for visiting my profile! ⚡
