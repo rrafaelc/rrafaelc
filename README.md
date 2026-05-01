@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Costa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafael%20Costa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer&descAlignY=51&descAlign=50" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=540&lines=Mid-Level+Full+Stack+Developer;%7E3+years+of+professional+experience;Backend-focused%2C+full-stack+capable;AI-powered+daily+workflow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;%2B3+years+of+professional+experience;Backend-focused%2C+full-stack+capable;AI-powered+daily+workflow)](https://rafaelcostadev.com)
 
 </div>
 
@@ -62,12 +62,9 @@ I build scalable systems and ship real products. My primary focus is backend, bu
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
-
 [![GitHub Stats](https://github-readme-stats-beige-psi-31.vercel.app/api?username=rrafaelc&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rrafaelc&theme=dracula&hide_border=false&disable_animations=true)](https://git.io/streak-stats)
 
 ## 📫 Contact
 
